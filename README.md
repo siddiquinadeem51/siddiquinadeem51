@@ -1,6 +1,6 @@
-<!-- ========================= -->
-<!--        HERO SECTION       -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                     HERO SECTION                       -->
+<!-- ====================================================== -->
 
 <div align="center">
 
@@ -39,9 +39,9 @@ Data Science & AI/ML Enthusiast
 
 ---
 
-<!-- ========================= -->
-<!--        ABOUT ME           -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                      ABOUT ME                          -->
+<!-- ====================================================== -->
 
 <table>
 <tr>
@@ -122,9 +122,9 @@ Alliance University
 
 ---
 
-<!-- ========================= -->
-<!--       TECH STACK          -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                    TECH STACK                          -->
+<!-- ====================================================== -->
 
 <h2>🛠️ Tech Stack</h2>
 
@@ -224,9 +224,9 @@ Alliance University
 
 ---
 
-<!-- ========================= -->
-<!--     FEATURED PROJECTS     -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                  FEATURED PROJECTS                     -->
+<!-- ====================================================== -->
 
 <h2>🚀 Featured Projects</h2>
 
@@ -248,10 +248,15 @@ CNN-based biometric authentication system for ATM security using
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square"/>
 <img src="https://img.shields.io/badge/FaceNet-6C3BFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/ArcFace-7C3AED?style=flat-square"/>
 
 <br><br>
 
-🔗 <strong><a href="https://github.com/siddiquinadeem51">View Project →</a></strong>
+🔗 <strong>
+<a href="https://github.com/siddiquinadeem51/ATM-Face-Recognition-">
+View Project →
+</a>
+</strong>
 
 </td>
 
@@ -273,11 +278,16 @@ using TF-IDF, n-grams and LinearSVC.
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLP-00A67E?style=flat-square"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square"/>
-<img src="https://img.shields.io/badge/RoBERTa-6C3BFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/TF--IDF-6C3BFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/RoBERTa-7C3AED?style=flat-square"/>
 
 <br><br>
 
-🔗 <strong><a href="https://github.com/siddiquinadeem51">View Project →</a></strong>
+🔗 <strong>
+<a href="https://github.com/siddiquinadeem51/Youtube_Comment_Sentiment_Analysis">
+View Project →
+</a>
+</strong>
 
 </td>
 
@@ -303,7 +313,11 @@ artists, tracks, playlists and musical characteristics.
 
 <br><br>
 
-🔗 <strong><a href="https://github.com/siddiquinadeem51">View Project →</a></strong>
+🔗 <strong>
+<a href="https://github.com/siddiquinadeem51/Data-Analytics-For-Business-Projects/tree/main/Final_Project_Spotify_Music_Dashboard">
+View Project →
+</a>
+</strong>
 
 </td>
 
@@ -329,7 +343,11 @@ regression and statistical techniques.
 
 <br><br>
 
-🔗 <strong><a href="https://github.com/siddiquinadeem51">View Project →</a></strong>
+🔗 <strong>
+<a href="https://github.com/siddiquinadeem51/Solar-Energy-Demand-Forecasting">
+View Project →
+</a>
+</strong>
 
 </td>
 
@@ -338,9 +356,9 @@ regression and statistical techniques.
 
 ---
 
-<!-- ========================= -->
-<!--       GITHUB ACTIVITY     -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                   GITHUB ACTIVITY                     -->
+<!-- ====================================================== -->
 
 <h2>📊 GitHub Activity</h2>
 
@@ -356,9 +374,9 @@ regression and statistical techniques.
 
 ---
 
-<!-- ========================= -->
-<!--       CURRENTLY LEARNING  -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                  CURRENTLY LEARNING                   -->
+<!-- ====================================================== -->
 
 <h2>🧠 Currently Learning</h2>
 
@@ -434,9 +452,9 @@ Deployment
 
 ---
 
-<!-- ========================= -->
-<!--   CERTIFICATIONS          -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--              CERTIFICATIONS & ACHIEVEMENTS             -->
+<!-- ====================================================== -->
 
 <h2>🏆 Certifications & Achievements</h2>
 
@@ -445,23 +463,27 @@ Deployment
 
 <td width="50%" valign="top">
 
-### 🎓 Certifications
+<h3>🎓 Certifications</h3>
 
-- 🏅 **Oracle Data Science Certification**
-- 📚 **Machine Learning Specialization – Coursera**
-- 📊 **Data Analysis with Python – Coursera**
-- ☕ **Java & Data Structures and Algorithms – Coding Ninjas**
+<ul>
+<li>🏅 <strong>Oracle Data Science Certification</strong></li>
+<li>📚 <strong>Machine Learning Specialization – Coursera</strong></li>
+<li>📊 <strong>Data Analysis with Python – Coursera</strong></li>
+<li>☕ <strong>Java & Data Structures and Algorithms – Coding Ninjas</strong></li>
+</ul>
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌟 Achievements
+<h3>🌟 Achievements</h3>
 
-- 🌱 **1M1B Green Internship Program**
-- 🏆 Participated in college hackathons
-- 💻 Participated in technical competitions
-- 🌍 Contributed to sustainability-focused projects
+<ul>
+<li>🌱 <strong>1M1B Green Internship Program</strong></li>
+<li>🏆 Participated in college hackathons</li>
+<li>💻 Participated in technical competitions</li>
+<li>🌍 Contributed to sustainability-focused projects</li>
+</ul>
 
 </td>
 
@@ -470,9 +492,9 @@ Deployment
 
 ---
 
-<!-- ========================= -->
-<!--      OPEN TO WORK         -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                  OPEN TO OPPORTUNITIES                 -->
+<!-- ====================================================== -->
 
 <h2>💼 Open to Opportunities</h2>
 
@@ -495,9 +517,9 @@ I'm interested in opportunities where I can apply my skills in
 
 ---
 
-<!-- ========================= -->
-<!--        CONNECT            -->
-<!-- ========================= -->
+<!-- ====================================================== -->
+<!--                      CONNECT                           -->
+<!-- ====================================================== -->
 
 <h2>📫 Connect With Me</h2>
 
@@ -522,6 +544,10 @@ I'm interested in opportunities where I can apply my skills in
 </div>
 
 <br>
+
+<!-- ====================================================== -->
+<!--                     FOOTER                             -->
+<!-- ====================================================== -->
 
 <div align="center">
 
