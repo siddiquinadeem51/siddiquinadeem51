@@ -1,317 +1,505 @@
+<!-- ========================= -->
+<!--        HERO SECTION       -->
+<!-- ========================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm **Mohd Nadeem**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:172554,100:4C1D95&height=220&section=header&text=Mohd%20Nadeem&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
-### **Data Science & AI/ML Enthusiast | Python | SQL | Machine Learning | Power BI**
+<br>
+
+<h1>👋 Hi, I'm <strong>Mohd Nadeem</strong></h1>
+
+<h3>
+Data Science & AI/ML Enthusiast
+</h3>
 
 <p>
-  <img src="https://img.shields.io/badge/Data%20Science-0A66C2?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%2FML-6C3BFF?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<strong>Python</strong> •
+<strong>SQL</strong> •
+<strong>Machine Learning</strong> •
+<strong>NLP</strong> •
+<strong>Deep Learning</strong> •
+<strong>Power BI</strong>
+</p>
+
+<br>
+
+<img src="https://img.shields.io/badge/Data%20Science-0F6CBD?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML-6C3BFF?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=siddiquinadeem51&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!--        ABOUT ME           -->
+<!-- ========================= -->
+
+<table>
+<tr>
+
+<td width="65%" valign="top">
+
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I'm currently pursuing an <strong>MCA in Data Science at Alliance University, Bangalore</strong>.
+</p>
+
+<p>
+I enjoy building data-driven solutions using
+<strong>Python, Machine Learning, NLP, Deep Learning, SQL, and Power BI.</strong>
+</p>
+
+<h3>🚀 What I Work With</h3>
+
+<ul>
+<li>🎓 MCA – Data Science @ Alliance University</li>
+<li>🐍 Python & Data Science</li>
+<li>📊 Data Analytics & Business Intelligence</li>
+<li>🤖 Machine Learning & Deep Learning</li>
+<li>🧠 NLP, Transformers & Generative AI</li>
+<li>📈 Power BI & Data Visualization</li>
+<li>🗄️ SQL, MySQL & MongoDB</li>
+<li>💻 Python / AI / ML / Data Analyst opportunities</li>
+</ul>
+
+</td>
+
+<td width="35%" valign="top">
+
+<h2>⚡ Quick Facts</h2>
+
+<p>🎓 <strong>Education</strong></p>
+
+<p>
+MCA – Data Science<br>
+Alliance University
+</p>
+
+<hr>
+
+<p>🐍 <strong>Primary Language</strong></p>
+
+<p>Python</p>
+
+<hr>
+
+<p>📊 <strong>Data</strong></p>
+
+<p>Analytics & Visualization</p>
+
+<hr>
+
+<p>🤖 <strong>AI</strong></p>
+
+<p>Machine Learning & Deep Learning</p>
+
+<hr>
+
+<p>🧠 <strong>Exploring</strong></p>
+
+<p>Generative AI & LLMs</p>
+
+<hr>
+
+<p>📈 <strong>BI</strong></p>
+
+<p>Power BI & DAX</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================= -->
+<!--       TECH STACK          -->
+<!-- ========================= -->
+
+<h2>🛠️ Tech Stack</h2>
+
+<table>
+<tr>
+
+<td width="20%" valign="top" align="center">
+
+<h3>💻 Programming</h3>
+
+<img src="https://skillicons.dev/icons?i=python,java" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</td>
+
+<td width="25%" valign="top" align="center">
+
+<h3>🤖 Machine Learning & AI</h3>
+
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat-square&logo=googledeepmind&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NLP-00A67E?style=flat-square&logo=language&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Transformers-6C3BFF?style=flat-square&logo=huggingface&logoColor=white"/>
+
+</td>
+
+<td width="20%" valign="top" align="center">
+
+<h3>📊 Data Science</h3>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+
+<td width="20%" valign="top" align="center">
+
+<h3>🗄️ Databases</h3>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</td>
+
+<td width="20%" valign="top" align="center">
+
+<h3>📈 BI & Tools</h3>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================= -->
+<!--     FEATURED PROJECTS     -->
+<!-- ========================= -->
+
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🤖 ATM Face Recognition</h3>
+
+<p>
+CNN-based biometric authentication system for ATM security using
+<strong>Deep Learning and Deep Metric Learning.</strong>
+</p>
+
+<p><strong>Tech Stack</strong></p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/CNN-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/FaceNet-6C3BFF?style=flat-square"/>
+
+<br><br>
+
+🔗 <strong><a href="https://github.com/siddiquinadeem51">View Project →</a></strong>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>💬 YouTube Comment Sentiment Analysis</h3>
+
+<p>
+NLP classification pipeline for <strong>18,000+ YouTube comments</strong>
+using TF-IDF, n-grams and LinearSVC.
+</p>
+
+<p>
+🏆 <strong>Accuracy: 89.7%</strong>
+</p>
+
+<p><strong>Tech Stack</strong></p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-00A67E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square"/>
+<img src="https://img.shields.io/badge/RoBERTa-6C3BFF?style=flat-square"/>
+
+<br><br>
+
+🔗 <strong><a href="https://github.com/siddiquinadeem51">View Project →</a></strong>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>🎵 Spotify Music Analytics Dashboard</h3>
+
+<p>
+Interactive <strong>Power BI dashboard</strong> analyzing Spotify streams,
+artists, tracks, playlists and musical characteristics.
+</p>
+
+<p><strong>Tech Stack</strong></p>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Query-742774?style=flat-square"/>
+<img src="https://img.shields.io/badge/DAX-6C3BFF?style=flat-square"/>
+
+<br><br>
+
+🔗 <strong><a href="https://github.com/siddiquinadeem51">View Project →</a></strong>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>☀️ Solar Energy Demand Forecasting</h3>
+
+<p>
+Time-series forecasting project for predicting solar energy demand using
+regression and statistical techniques.
+</p>
+
+<p>
+📈 <strong>18% prediction improvement through model optimization</strong>
+</p>
+
+<p><strong>Tech Stack</strong></p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Time%20Series-6C3BFF?style=flat-square"/>
+
+<br><br>
+
+🔗 <strong><a href="https://github.com/siddiquinadeem51">View Project →</a></strong>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================= -->
+<!--       GITHUB ACTIVITY     -->
+<!-- ========================= -->
+
+<h2>📊 GitHub Activity</h2>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=siddiquinadeem51&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddiquinadeem51&theme=tokyonight&hide_border=true&background=0D1117&ring=6C3BFF&fire=F59E0B&currStreakLabel=60A5FA" width="70%"/>
+
+</div>
+
+---
+
+<!-- ========================= -->
+<!--       CURRENTLY LEARNING  -->
+<!-- ========================= -->
+
+<h2>🧠 Currently Learning</h2>
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🤖 Generative AI
+
+LLMs  
+AI Applications  
+Prompt Engineering
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 LLMs & Transformers
+
+Transformers  
+NLP  
+Model Fine-tuning
+
+</td>
+
+<td align="center" width="33%">
+
+### 🐍 Advanced Python
+
+Python Development  
+APIs  
+Automation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="33%">
+
+### 📊 Advanced Data Analytics
+
+EDA  
+Statistics  
+Data Visualization
+
+</td>
+
+<td align="center" width="33%">
+
+### ☁️ AI Applications
+
+AI Systems  
+Model Deployment  
+Real-world Applications
+
+</td>
+
+<td align="center" width="33%">
+
+### 🚀 Production ML
+
+ML Pipelines  
+Model Evaluation  
+Deployment
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================= -->
+<!--   CERTIFICATIONS          -->
+<!-- ========================= -->
+
+<h2>🏆 Certifications & Achievements</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 Certifications
+
+- 🏅 **Oracle Data Science Certification**
+- 📚 **Machine Learning Specialization – Coursera**
+- 📊 **Data Analysis with Python – Coursera**
+- ☕ **Java & Data Structures and Algorithms – Coding Ninjas**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌟 Achievements
+
+- 🌱 **1M1B Green Internship Program**
+- 🏆 Participated in college hackathons
+- 💻 Participated in technical competitions
+- 🌍 Contributed to sustainability-focused projects
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ========================= -->
+<!--      OPEN TO WORK         -->
+<!-- ========================= -->
+
+<h2>💼 Open to Opportunities</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Data%20Scientist-0F6CBD?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analyst-0891B2?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python%20Developer-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%2FML%20Engineer-6C3BFF?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gen%20AI%20Engineer-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<br><br>
+
+<p>
+I'm interested in opportunities where I can apply my skills in
+<strong>Data Science, AI/ML, Python, NLP, Data Analytics and Business Intelligence.</strong>
 </p>
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="65%" valign="top">
-
-## 👨‍💻 About Me
-
-I'm currently pursuing an **MCA in Data Science at Alliance University, Bangalore**.
-
-I enjoy building data-driven solutions using **Python, Machine Learning, NLP, Deep Learning, SQL, and Power BI**.
-
-### 🚀 What I Work With
-
-- 🎓 MCA – Data Science @ Alliance University
-- 🐍 Python & Data Science
-- 📊 Data Analytics & Business Intelligence
-- 🤖 Machine Learning & Deep Learning
-- 🧠 NLP, Transformers & Generative AI
-- 📈 Power BI & Data Visualization
-- 🗄️ SQL, MySQL & MongoDB
-- 💻 Python / AI / ML / Data Analyst opportunities
-
-</td>
-
-<td width="35%" valign="top">
-
-## ⚡ Quick Facts
-
-**🎓 Education**
-
-MCA – Data Science  
-Alliance University
-
-**🐍 Primary Language**
-
-Python
-
-**📊 Data**
-
-Analytics & Visualization
-
-**🤖 AI**
-
-Machine Learning & Deep Learning
-
-**🧠 Exploring**
-
-Generative AI & LLMs
-
-**📈 BI**
-
-Power BI & DAX
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-<table>
-<tr>
-<td width="20%" valign="top">
-
-### 💻 Programming
-
-<img src="https://skillicons.dev/icons?i=python,java" />
-
-<br>
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🤖 Machine Learning & AI
-
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat-square&logo=googledeepmind&logoColor=white)
-
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-![NLP](https://img.shields.io/badge/NLP-00A67E?style=flat-square&logo=language&logoColor=white)
-
-</td>
-
-<td width="20%" valign="top">
-
-### 📊 Data Science
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
-
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
-
-</td>
-
-<td width="20%" valign="top">
-
-### 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-</td>
-
-<td width="20%" valign="top">
-
-### 📈 BI & Tools
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-## 🤖 ATM Face Recognition
-
-CNN-based biometric authentication system for ATM security using **Deep Learning and Deep Metric Learning**.
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat-square)
-![FaceNet](https://img.shields.io/badge/FaceNet-6C3BFF?style=flat-square)
-
-🔗 **[View Project](https://github.com/siddiquinadeem51)**
-
-</td>
-
-<td width="50%" valign="top">
-
-## 💬 YouTube Comment Sentiment Analysis
-
-NLP classification pipeline for **18,000+ YouTube comments** using TF-IDF, n-grams and LinearSVC.
-
-**Accuracy: 89.7%**
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-00A67E?style=flat-square)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square)
-![RoBERTa](https://img.shields.io/badge/RoBERTa-6C3BFF?style=flat-square)
-
-🔗 **[View Project](https://github.com/siddiquinadeem51)**
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎵 Spotify Music Analytics Dashboard
-
-Interactive **Power BI dashboard** analyzing Spotify streams, artists, tracks, playlists and musical characteristics.
-
-**Tech Stack**
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-742774?style=flat-square)
-
-🔗 **[View Project](https://github.com/siddiquinadeem51)**
-
-</td>
-
-<td width="50%" valign="top">
-
-## ☀️ Solar Energy Demand Forecasting
-
-Time-series forecasting project for predicting solar energy demand using regression and statistical techniques.
-
-**18% prediction improvement through model optimization**
-
-**Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square)
-
-🔗 **[View Project](https://github.com/siddiquinadeem51)**
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 📊 GitHub Activity
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=siddiquinadeem51&style=for-the-badge&color=0A66C2)
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=siddiquinadeem51&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🧠 Currently Learning
-
-<table>
-<tr>
-<td>
-
-🤖 **Generative AI**
-
-</td>
-<td>
-
-🧠 **LLMs & Transformers**
-
-</td>
-<td>
-
-🐍 **Advanced Python**
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-📊 **Advanced Data Analytics**
-
-</td>
-<td>
-
-☁️ **AI Applications**
-
-</td>
-<td>
-
-🚀 **Production ML**
-
-</td>
-</tr>
-</table>
-
----
-
-# 🏆 Certifications & Achievements
-
-- 🏅 **Oracle Data Science Certification**
-- 📚 **Machine Learning Specialization – Coursera**
-- 📊 **Data Analysis with Python – Coursera**
-- ☕ **Java & Data Structures and Algorithms – Coding Ninjas**
-- 🌱 **1M1B Green Internship Program**
-- 🏆 Participated in college hackathons and technical competitions
-
----
-
-# 💼 Open to Opportunities
-
-I'm interested in opportunities related to:
-
-**Data Scientist • Data Analyst • Python Developer • AI/ML Engineer • Gen AI Engineer**
-
-I'm open to learning, collaborating, and working on real-world data and AI problems.
-
----
-
-# 📫 Connect With Me
+<!-- ========================= -->
+<!--        CONNECT            -->
+<!-- ========================= -->
+
+<h2>📫 Connect With Me</h2>
 
 <div align="center">
 
@@ -333,12 +521,16 @@ I'm open to learning, collaborating, and working on real-world data and AI probl
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:172554,100:0F172A&height=120&section=footer" width="100%"/>
 
-**Let's connect, build, and learn together. 🚀**
+<h3>⭐ Thanks for visiting my profile!</h3>
+
+<p>
+<strong>Let's connect, build, and learn together. 🚀</strong>
+</p>
 
 </div>
